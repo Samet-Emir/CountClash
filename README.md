@@ -15,19 +15,7 @@
 - Karakter tabanlı çatışma sistemi
 - GameManager ile sahne kontrolü ve düşman yönetimi
 
-## 📷 Ekran Görüntüleri
 
-| Menü | Savaş |
-|------|-------|
-| ![](screenshots/menu.png) | ![](screenshots/battle.png) |
-
-## 🧩 Koddan Örnekler
-
-Aşağıda oyunda kullanılan temel sistemlerin sadeleştirilmiş kod örnekleri yer almaktadır:
-
-- Karakter kontrolü
-- GameManager mantığı
-- Basit animasyon yönetimi
 
 ## ⚠️ Lisans ve Kullanım
 
