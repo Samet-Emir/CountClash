@@ -4,7 +4,7 @@
 
 ## 🎮 Genel Bilgiler
 
-- **Oyun Türü**: Strateji / Aksiyon
+- **Oyun Türü**: Basit Eğlence
 - **Oyun Motoru**: Unity
 - **Kodlama Dili**: C#
 - **Hedef Platform**: Mobil (iOS / Android)
